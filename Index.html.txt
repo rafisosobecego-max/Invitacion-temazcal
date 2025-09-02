@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Siembra de Nombre y Renovación del Sol</title>
+<style>
+body {
+font-family: 'Segoe UI', sans-serif;
+background-color: #f8f1e4; /* tono tierra claro */
+color: #333;
+text-align: center;
+line-height: 1.6;
+padding: 20px;
+}
+.container {
+max-width: 600px;
+margin: 0 auto;
+background-color: #fffaf0;
+padding: 30px;
+border-radius: 8px;
+box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+.title {
+font-size: 2em;
+color: #7f3300; /* tono cálido */
+}
+.subtitle {
+margin-top: 10px;
+font-size: 1.1em;
+color: #a0522d;
+}
+.symbol {
+margin: 20px 0;
+font-size: 2.5em;
+}
+.details {
+margin: 20px 0;
+font-size: 1.1em;
+}
+.vestimenta {
+text-align: left;
+margin: 20px 0;
+padding: 10px;
+background: #fff5e6;
+border-radius: 6px;
+font-size: 1em;
+}
+.confirm-btn {
+display: inline-block;
+margin: 30px 0;
+padding: 15px 25px;
+font-size: 1.1em;
+color: #fff;
+background-color: #c34a00;
+border: none;
+border-radius: 6px;
+text-decoration: none;
+cursor: pointer;
+}
+.confirm-btn:hover {
+background-color: #a63e00;
+}
+.footer {
+margin-top: 30px;
+font-size: 0.9em;
+color: #666;
+}
+</style>
+</head>
+<body>
+<div class="container">
+<div class="title">Siembra de Nombre y Renovación del Sol</div>
+<div class="subtitle">Ceremonia de Temazcal por los 39 años de Rafael IxtliCuatli y la siembra del nombre de Emilio</div>
+<div class="symbol">🦅 ‣ 🦌</div>
+<div class="details">
+<strong>Fecha:</strong> Sábado 11 de octubre de 2025<br>
+<strong>Hora:</strong> 10:00 AM<br>
+<strong>Lugar:</strong> <a href="https://maps.app.goo.gl/K2nFTHF8kRpqJAgC9" target="_blank">Ver ubicación</a>
+</div>
+<div class="vestimenta">
+<strong>Recomendaciones de vestimenta para el Temazcal:</strong><br>
+<strong>Hombres:</strong> short, sandalias, toalla.<br>
+<strong>Mujeres:</strong> falda o vestido (o short), sandalias, toalla.
+</div>
+<a class="confirm-btn" href="https://docs.google.com/forms/d/e/1FAIpQLSegc_ce0Jkv4DMAAxcuvjP9hFks6v3HEDKrF2h445y6urg7mQ/viewform?usp=header" target="_blank">
+Confirmar asistencia
+</a>
+<div class="footer">Gracias por acompañarnos en este momento sagrado.</div>
+</div>
+</body>
+</html>
